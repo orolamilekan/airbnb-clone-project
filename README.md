@@ -46,3 +46,59 @@ Primary Font: Circular, Medium (500), 16px
 Headings: Circular, Bold (700), 24px-32px
 Secondary Text: Circular, Book (400), 14px
 
+
+## 👥 Project Roles and Responsibilities
+
+To ensure the successful delivery of the AirBnB Clone website, each team member has clearly defined roles and responsibilities. Below are the primary roles and their key contributions:
+
+### 1. Project Manager
+- Oversees the entire project lifecycle from planning to delivery.  
+- Ensures deadlines are met and resources are allocated properly.  
+- Facilitates communication between all team members.  
+- Mitigates risks and removes blockers that might delay progress.  
+
+### 2. Product Owner
+- Defines the product vision and overall goals.  
+- Prioritizes features and manages the product backlog.  
+- Acts as the bridge between stakeholders and the development team.  
+- Ensures the final product delivers business value and meets user needs.  
+
+### 3. Scrum Master
+- Guides the team in following Agile practices.  
+- Facilitates daily stand-ups, sprint planning, and retrospectives.  
+- Removes obstacles that hinder team productivity.  
+- Promotes collaboration and continuous improvement.  
+
+### 4. Frontend Developers
+- Implement the user interface using React, HTML, CSS, and JavaScript.  
+- Translate design mockups into functional, responsive web pages.  
+- Ensure cross-browser and cross-device compatibility.  
+- Optimize the frontend for performance and accessibility.  
+
+### 5. Backend Developers
+- Build and maintain server-side logic, APIs, and database integrations.  
+- Implement features such as authentication, booking logic, and payments.  
+- Ensure data security and system scalability.  
+- Collaborate with frontend developers to deliver end-to-end features.  
+
+### 6. Designers (UI/UX)
+- Create wireframes, prototypes, and high-fidelity mockups.  
+- Define the visual style (colors, typography, and components).  
+- Ensure the platform is user-friendly, intuitive, and consistent.  
+- Conduct usability tests and refine designs based on feedback.  
+
+### 7. QA/Testers
+- Design and execute test cases to ensure product quality.  
+- Perform functional, regression, and user acceptance testing.  
+- Identify bugs and ensure they are resolved before release.  
+- Guarantee a smooth and reliable user experience.  
+
+### 8. DevOps Engineers
+- Set up and maintain CI/CD pipelines for smooth deployments.  
+- Manage cloud infrastructure (e.g., AWS, Azure, or GCP).  
+- Monitor system performance and ensure high availability.  
+- Implement security best practices and disaster recovery plans.  
+
+---
+
+✅ By working together, these roles ensure the AirBnB clone project is delivered on time, meets quality standards, and provides a seamless experience for end-users.
