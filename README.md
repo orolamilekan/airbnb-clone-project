@@ -102,3 +102,40 @@ To ensure the successful delivery of the AirBnB Clone website, each team member 
 ---
 
 ✅ By working together, these roles ensure the AirBnB clone project is delivered on time, meets quality standards, and provides a seamless experience for end-users.
+
+
+## 🎨 UI Component Patterns
+
+To ensure a consistent and reusable design system, the following UI components will be developed for the AirBnB clone website:
+
+### 1. Navbar
+- **Purpose**: Provides global navigation across the site.  
+- **Features**:  
+  - Logo and branding.  
+  - Search bar for quick property searches.  
+  - Navigation links (e.g., Home, Explore, Bookings, Profile).  
+  - User authentication controls (Login/Signup or Profile Dropdown).  
+- **Importance**: Ensures easy access to major sections of the platform and enhances discoverability.
+
+### 2. Property Card
+- **Purpose**: Displays key property details in a clean, concise format.  
+- **Features**:  
+  - Property image.  
+  - Title and brief description.  
+  - Pricing and availability.  
+  - Ratings and reviews.  
+  - Call-to-action button (e.g., “Book Now” or “View Details”).  
+- **Importance**: Acts as the main way users browse properties, providing clear and attractive information.
+
+### 3. Footer
+- **Purpose**: Provides supplemental navigation and essential information at the bottom of every page.  
+- **Features**:  
+  - Links to About, Contact, FAQs, and Support.  
+  - Social media links.  
+  - Copyright and legal information.  
+  - Newsletter signup.  
+- **Importance**: Improves credibility, helps with user engagement, and ensures compliance with policies.
+
+---
+
+✅ These reusable components form the building blocks of the interface, making the design more maintainable, scalable, and consistent across the application.
